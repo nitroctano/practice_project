@@ -1,1 +1,2 @@
-#Thinkful Practice Project\nThis is only a test.
+#Thinkful Practice Project
+This is only a test.
